@@ -1,0 +1,8 @@
+/home/trongnhan/code_space/Cpp_project/AppCoreLib/out/build/Debug Clang redhat-linux/CMakeFiles/edit_cache.dir
+/home/trongnhan/code_space/Cpp_project/AppCoreLib/out/build/Debug Clang redhat-linux/CMakeFiles/rebuild_cache.dir
+/home/trongnhan/code_space/Cpp_project/AppCoreLib/out/build/Debug Clang redhat-linux/Core/CMakeFiles/Core.dir
+/home/trongnhan/code_space/Cpp_project/AppCoreLib/out/build/Debug Clang redhat-linux/Core/CMakeFiles/edit_cache.dir
+/home/trongnhan/code_space/Cpp_project/AppCoreLib/out/build/Debug Clang redhat-linux/Core/CMakeFiles/rebuild_cache.dir
+/home/trongnhan/code_space/Cpp_project/AppCoreLib/out/build/Debug Clang redhat-linux/ClientApp/CMakeFiles/ClientApp.dir
+/home/trongnhan/code_space/Cpp_project/AppCoreLib/out/build/Debug Clang redhat-linux/ClientApp/CMakeFiles/edit_cache.dir
+/home/trongnhan/code_space/Cpp_project/AppCoreLib/out/build/Debug Clang redhat-linux/ClientApp/CMakeFiles/rebuild_cache.dir

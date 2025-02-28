@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libCore.a CMakeFiles/Core.dir/Core/Event/EventDispatcher.cpp.o CMakeFiles/Core.dir/Core/Logger/Logger.cpp.o CMakeFiles/Core.dir/Core/src/Application.cpp.o
+/usr/bin/llvm-ranlib libCore.a

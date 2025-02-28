@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/trongnhan/code_space/foolAround/try_GameEngine/Core",
+  "command": "/usr/bin/c++ -D_DEBUG=1 -I/home/trongnhan/code_space/foolAround/try_GameEngine/Core/Core -I/home/trongnhan/code_space/foolAround/try_GameEngine/Vendors/include -g -std=gnu++17 -o CMakeFiles/Core.dir/Core/Logger/Logger.cpp.o -c /home/trongnhan/code_space/foolAround/try_GameEngine/Core/Core/Logger/Logger.cpp",
+  "file": "/home/trongnhan/code_space/foolAround/try_GameEngine/Core/Core/Logger/Logger.cpp",
+  "output": "Core/CMakeFiles/Core.dir/Core/Logger/Logger.cpp.o"
+},
+{
+  "directory": "/home/trongnhan/code_space/foolAround/try_GameEngine/Core",
+  "command": "/usr/bin/c++ -D_DEBUG=1 -I/home/trongnhan/code_space/foolAround/try_GameEngine/Core/Core -I/home/trongnhan/code_space/foolAround/try_GameEngine/Vendors/include -g -std=gnu++17 -o CMakeFiles/Core.dir/Core/src/Application.cpp.o -c /home/trongnhan/code_space/foolAround/try_GameEngine/Core/Core/src/Application.cpp",
+  "file": "/home/trongnhan/code_space/foolAround/try_GameEngine/Core/Core/src/Application.cpp",
+  "output": "Core/CMakeFiles/Core.dir/Core/src/Application.cpp.o"
+},
+{
+  "directory": "/home/trongnhan/code_space/foolAround/try_GameEngine/ClientApp",
+  "command": "/usr/bin/c++ -D_DEBUG=1 -I/home/trongnhan/code_space/foolAround/try_GameEngine/ClientApp/src -I/home/trongnhan/code_space/foolAround/try_GameEngine/Core -I/home/trongnhan/code_space/foolAround/try_GameEngine/Core/Core -I/home/trongnhan/code_space/foolAround/try_GameEngine/Vendors/include -g -std=gnu++17 -o CMakeFiles/ClientApp.dir/src/SandBox.cpp.o -c /home/trongnhan/code_space/foolAround/try_GameEngine/ClientApp/src/SandBox.cpp",
+  "file": "/home/trongnhan/code_space/foolAround/try_GameEngine/ClientApp/src/SandBox.cpp",
+  "output": "ClientApp/CMakeFiles/ClientApp.dir/src/SandBox.cpp.o"
+}
+]
