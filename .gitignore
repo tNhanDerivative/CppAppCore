@@ -2,4 +2,5 @@
 /out/** 
 /build/**
 
-*.json
+CMakePresets.json
+compile_commands.json
