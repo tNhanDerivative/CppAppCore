@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g CMakeFiles/ClientApp.dir/src/SandBox.cpp.o -o ClientApp   -L/home/trongnhan/code_space/Cpp_project/AppCoreLib/Vendors/bin  -Wl,-rpath,/home/trongnhan/code_space/Cpp_project/AppCoreLib/Vendors/bin ../Core/libCore.a -lspdlog

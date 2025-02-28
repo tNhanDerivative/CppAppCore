@@ -8,7 +8,7 @@
 using EventActionList = std::vector<IEventAction*>;
 
 class  EventDispatcher {
-	friend class Application;
+	// friend class Application;
 public:
 	~EventDispatcher();
 
@@ -38,7 +38,7 @@ public:
 	}
 
 private:
-	EventDispatcher();
+	// EventDispatcher();
 private:
 	std::unordered_map<const char*, EventActionList> mEventActionMap;
 };

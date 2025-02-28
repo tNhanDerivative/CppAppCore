@@ -10,3 +10,4 @@ project ("GameEngine")
 
 add_subdirectory(Core)
 add_subdirectory(ExampleApp)
+add_subdirectory(UnitTest)
